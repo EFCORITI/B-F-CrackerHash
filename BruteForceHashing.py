@@ -8,7 +8,7 @@ from colorama import Fore
 
 #Demonstrates the difference between two types of hashing, SHA1 and Bcrypt
 print(Fore.BLUE)
-print("""###############
+print("""               ###############
                       ##################
                    ######################
                   #########################
